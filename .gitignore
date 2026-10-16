@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Session logs and runtime data
+sessions/*
+!sessions/.gitkeep
+
+# MaxMind GeoIP Databases
+*.mmdb
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
